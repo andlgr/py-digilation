@@ -1,4 +1,4 @@
-# py-digilation
+# py-digilation (Work In Progress)
 PyDigilation - Film Halation Simulation for Digital Photos (In Python)
 
 ---
@@ -12,9 +12,10 @@ Original (Leiden - NL)
 ![Original-LeidenNL](samples/DSCF4182-leiden-nl2.jpeg)
 Halation Applied (Leiden - NL)
 ![Halation-LeidenNL](samples/DSCF4182-leiden-nl2.jpeg_converted.png)
+
 Original (Berlin - DE)
 ![Original-Berlin](samples/IMG_7908-berlin.jpeg)
-Halation Applies (Berlin - DE)
+Halation Applied (Berlin - DE)
 ![Halation-Berlin](samples/IMG_7908-berlin.jpeg_converted.png)
 
 ---
