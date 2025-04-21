@@ -36,7 +36,8 @@ if __name__ == "__main__":
 
     for _,_, files in os.walk(folder_in):
         for file_name in files:
-            in_files.append(file_name)
+            if 'jpeg' in file_name:
+                in_files.append(file_name)
 
     for file_name in in_files:
         in_path = folder_in + '/' + file_name
