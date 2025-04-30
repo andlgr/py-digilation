@@ -1,7 +1,8 @@
 # py-digilation (Work In Progress)
----
+
 PyDigilation - Film Halation Simulation for Digital Photos (In Python).
 Experimenting with ChatGPT to generate code (the halation engine was mostly generated).
+
 ---
 
 ## Adding DigiLation (Digital Halation) to Photo Files
